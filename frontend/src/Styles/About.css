@@ -1,0 +1,61 @@
+
+
+.content-wrapper {
+  height: 100vh;
+ background-color: #DDE3EA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+  
+  
+  .bookstore-image {
+    width: 500px; 
+    height: 600px;
+    margin-right: 20px;
+    margin-top: 40px; 
+  }
+  
+  
+  .content {
+    text-align: left; 
+    max-width: 600px; 
+    margin-top: 70px;
+    margin-left: 40px;
+  }
+  
+  
+  h1, h2 {
+    color: #333;
+    font-size: 30px;
+    font-weight: bold;
+  margin-top: 20px;
+   
+  }
+  .content .hello .fa-book-open-reader {
+    color:#facc22;
+    margin-left: 10px;
+  }
+  .content .font .fa-person-circle-question {
+    color:#facc22;
+    margin-left: 10px;
+  }
+  .content .daily .fa-question {
+    color:#facc22;
+    margin-left: 10px;
+  }
+  
+  p {
+    color: #666;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+  
+ 
+  li {
+    color: #666;
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  

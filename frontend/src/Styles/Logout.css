@@ -1,0 +1,56 @@
+.dribble {
+    display: flex;
+    flex-direction: column;
+  
+background-image: url("https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/07/iStock-506432952.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+    height: 100vh;
+  }
+  .flow{
+    margin-left: 100px;
+    margin-top: 80px;
+  }
+  .dribble h1{
+    margin-left: 10px;
+  }
+  .log img{
+    margin-top: 20px; 
+    width: 300px;
+    height: 300px;
+    border-radius: 50% 50%;
+  }
+  
+  .vlog {
+    margin-top: 20px; 
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 90px;
+  }
+  
+  .vlog:hover {
+    background-color: #0056b3;
+  }
+  
+ 
+  
+
+
+.dribble img {
+    text-align: center;
+    animation: shake 0.5s ease-in-out infinite alternate;
+  }
+
+  @keyframes shake {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-10px);
+    }
+  }

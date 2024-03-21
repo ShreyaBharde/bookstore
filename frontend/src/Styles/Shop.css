@@ -1,0 +1,101 @@
+  .Shop-cart {
+    margin-top: 7rem;
+    padding-left: 1rem; 
+    padding-right: 1rem;
+    margin-left: 90px;
+    
+  }
+ 
+  
+  .Shop-cart h2 {
+    font-size: 40px;
+    font-weight: bold; 
+    text-align: center; 
+  }
+  
+  
+  .Card {
+    width: 300px;
+    height: 430px;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px; 
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); 
+  }
+  
+  .Card img {
+    width: 200px;
+    height: 300px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem; 
+    margin-left: 40px;
+    border-radius: 10px;
+  }
+  
+  .Card h5 {
+    font-size: 1.5rem; 
+    font-weight: bold;
+    line-height: 1.25; 
+    color: #1a202c; 
+    margin-left: 50px;
+  }
+  
+  .Card p {
+    font-size: 1rem; 
+    line-height: 1.5; 
+    color: #4a5568; 
+  }
+  
+  .dark .Card h5 {
+    color: #ffffff; 
+  }
+  
+  .dark .Card p {
+    color: #cbd5e0;
+  } 
+
+  .buy-now-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-left: 70px;
+    margin-top: 5px;
+  }
+  
+  .buy-now-link:hover {
+    background-color: #0056b3;
+  }
+  
+
+
+
+
+ 
+  .Card{
+ 
+    animation: fadeIn 0.5s ease forwards;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .Card:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+
+
+
+
+
+
+
+
+
+ 

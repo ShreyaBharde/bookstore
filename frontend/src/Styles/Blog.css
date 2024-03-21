@@ -1,0 +1,27 @@
+.blog-page {
+    padding: 20px;
+}
+
+.blog-post {
+    margin-bottom: 30px;
+}
+
+.blog-post h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog-post p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.blog-post a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blog-post a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,53 @@
+
+.Demo3 {
+    padding: 20px;
+    background-color: #DDE3EA;
+}
+
+.english {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bigimage {
+    flex: 1;
+    text-align: center;
+}
+
+.fiction {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.fiction span{
+    color:#203269;
+    font-size: 40px;
+    
+}
+.Devlop {
+    text-decoration: none;
+}
+
+.box-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.box-btn:hover {
+    background-color: #0056b3;
+}
+
+.english img {
+    width: 100%;
+    height: auto;
+    max-width: 400px; 
+}
+
+
