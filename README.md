@@ -1,8 +1,7 @@
 
-Certainly! Below is an example of a README file for a bookstore application where only admins can log in and out. The application includes a dashboard for performing CRUD operations where users can view books for purchase, with data generated from the backend:
 
-Bookstore Application
-Overview
+Bookstore Application Overview
+
 This is a web application designed for managing a bookstore. It provides functionality for admins to log in and out and perform CRUD operations on books. Users can view books available for purchase, with data generated from the backend.
 
 Features
